@@ -1,0 +1,11 @@
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\bin\Debug\AccumulateMessagesFunction.exe.config
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\bin\Debug\AccumulateMessagesFunction.exe
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\bin\Debug\AccumulateMessagesFunction.pdb
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\bin\Debug\AccumulateMessagesFunction.xml
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\obj\Debug\AccumulateMessagesFunction.vbprojAssemblyReference.cache
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\obj\Debug\AccumulateMessagesFunction.Resources.resources
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\obj\Debug\AccumulateMessagesFunction.vbproj.GenerateResource.cache
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\obj\Debug\AccumulateMessagesFunction.vbproj.CoreCompileInputs.cache
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\obj\Debug\AccumulateMessagesFunction.exe
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\obj\Debug\AccumulateMessagesFunction.xml
+C:\Users\froyo\source\repos\AccumulateMessagesFunction\obj\Debug\AccumulateMessagesFunction.pdb
